@@ -7,9 +7,9 @@ use Omnipay\Common\AbstractGateway;
 /**
  * NestPay Gateway
  * 
- * (c) Yasin Kuyu
+ * (c) Joshua Cox
  * 2015, insya.com
- * http://www.github.com/yasinkuyu/omnipay-nestpay
+ * http://www.github.com/joshuawcox5/omnipay-nestpay
  */
 class Gateway extends AbstractGateway {
 
