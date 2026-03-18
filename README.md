@@ -72,9 +72,9 @@ PHPUnit is a programmer-oriented testing framework for PHP. It is an instance of
             	'expiryMonth'   => '12',
             	'expiryYear'    => '2022',
             	'cvv'           => '000',
-            	'email'         => 'yasinkuyu@gmail.com',
-            	'firstname'     => 'Yasin',
-            	'lastname'      => 'Kuyu'
+            	'email'         => 'joshuawcox5@gmail.com',
+            	'firstname'     => 'Joshua',
+            	'lastname'      => 'Cox'
             ];
             
             try {
@@ -204,7 +204,7 @@ to your `composer.json` file:
 ```json
 {
     "require": {
-        "yasinkuyu/omnipay-nestpay": "~2.0"
+        "joshuawcox5/omnipay-nestpay": "~2.0"
     }
 }
 ```
@@ -217,7 +217,7 @@ And run composer to update your dependencies:
 
 ## Support
 
-If you believe you have found a bug, please report it using the [GitHub issue tracker](https://github.com/yasinkuyu/omnipay-nestpay/issues),
+If you believe you have found a bug, please report it using the [GitHub issue tracker](https://github.com/joshuawcox5/omnipay-nestpay/issues),
 or better yet, fork the library and submit a pull request.
 
 ## Roadmap
