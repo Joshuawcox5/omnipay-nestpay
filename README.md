@@ -16,7 +16,7 @@ NestPay (eski adıyla EST) altyapısını kullanan Türkiye bankaları için Omn
 
 ## Installation
 
-    composer require yasinkuyu/omnipay-nestpay:~2.0
+    composer require joshuawcox5/omnipay-nestpay:~2.0
 
 ## Basic Usage
 
@@ -68,10 +68,10 @@ PHPUnit is a programmer-oriented testing framework for PHP. It is an instance of
             $gateway->setTestMode(TRUE);
             
             $options = [
-            	'number'        => '5406675406675403',
-            	'expiryMonth'   => '12',
-            	'expiryYear'    => '2022',
-            	'cvv'           => '000',
+            	'number'        => '5262264124146378',
+            	'expiryMonth'   => '01',
+            	'expiryYear'    => '2031',
+            	'cvv'           => '013',
             	'email'         => 'joshuawcox5@gmail.com',
             	'firstname'     => 'Joshua',
             	'lastname'      => 'Cox'
